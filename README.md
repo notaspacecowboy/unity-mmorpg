@@ -1,2 +1,5 @@
 # UnityMMORPG
-A MMORPG project made in .net core(C# server) and Unity(C# client)
+## General Notes
+This is the codebase of my dungeon party oriented MMORPG project. Demo GIFs can be found below.
+<br> 
+## Gifs
