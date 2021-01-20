@@ -12,6 +12,14 @@ This is the codebase of my dungeon party oriented MMORPG project. Demo GIFs can 
 <br/>
 <br/>
 ### Create A Game Account
+![image](https://github.com/ZackYang-ops/UnityMMORPG/blob/master/Preview/Sign_Up.gif)
+<br/>
+<br/>
+### Login with Your Game Account
+![image](https://github.com/ZackYang-ops/UnityMMORPG/blob/master/Preview/Log_In.gif)
+<br/>
+<br/>
+### Create A New Character
 ![image](https://github.com/ZackYang-ops/UnityMMORPG/blob/master/Preview/Create_Character.gif)
 <br/>
 <br/>
