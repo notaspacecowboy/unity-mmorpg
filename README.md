@@ -28,7 +28,7 @@ This is the codebase of my dungeon party oriented MMORPG project. Demo GIFs can 
 <br/>
 <br/>
 ### Players can exit & re-enter the game world anywhere at any moment. Their exit position will be saved into the game database.
-![image](https://github.com/ZackYang-ops/UnityMMORPG/blob/master/Preview/Select_Character.gif)
+![image](https://github.com/ZackYang-ops/UnityMMORPG/blob/master/Preview/Restart_Game.gif)
 <br/>
 <br/>
 ### Multiplayer Game Synchronization 
