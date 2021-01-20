@@ -27,10 +27,6 @@ This is the codebase of my dungeon party oriented MMORPG project. Demo GIFs can 
 ![image](https://github.com/ZackYang-ops/UnityMMORPG/blob/master/Preview/Select_Character.gif)
 <br/>
 <br/>
-### Select An Existing Character and Log into Game
-![image](https://github.com/ZackYang-ops/UnityMMORPG/blob/master/Preview/Select_Character.gif)
-<br/>
-<br/>
 ### Player can exit & re-enter the game world anywhere at any moment. Their exit position will be saved into the game database.
 ![image](https://github.com/ZackYang-ops/UnityMMORPG/blob/master/Preview/Select_Character.gif)
 <br/>
