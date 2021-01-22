@@ -43,6 +43,6 @@ This is the codebase of my dungeon party oriented MMORPG project. Demo GIFs can 
 ![image](https://github.com/ZackYang-ops/UnityMMORPG/blob/master/Preview/Equip_Unequip.gif)
 <br/>
 <br/>
-### Shop System ----> Coming Soon
+### Quest System ----> Coming Soon
 ![image](https://github.com/ZackYang-ops/UnityMMORPG/blob/master/Preview/Purchase_Item.gif)
 
