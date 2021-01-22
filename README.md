@@ -41,4 +41,8 @@ This is the codebase of my dungeon party oriented MMORPG project. Demo GIFs can 
 <br/>
 ### Inventory & Equipment System! Players can now sort their inventories and equip/unequip all their equipments
 ![image](https://github.com/ZackYang-ops/UnityMMORPG/blob/master/Preview/Equip_Unequip.gif)
+<br/>
+<br/>
+### Shop System ----> Coming Soon
+![image](https://github.com/ZackYang-ops/UnityMMORPG/blob/master/Preview/Purchase_Item.gif)
 
