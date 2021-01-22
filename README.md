@@ -44,5 +44,4 @@ This is the codebase of my dungeon party oriented MMORPG project. Demo GIFs can 
 <br/>
 <br/>
 ### Quest System ----> Coming Soon
-![image](https://github.com/ZackYang-ops/UnityMMORPG/blob/master/Preview/Purchase_Item.gif)
 
